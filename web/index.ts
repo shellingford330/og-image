@@ -175,7 +175,7 @@ const imageLightOptions: DropdownOption[] = [
   },
   {
     text: "Me",
-    value: "https://shellingford330.vercel.app/images/book.png",
+    value: "https://og-image-delta-seven.vercel.app/MyLog.png",
   },
 ];
 
@@ -197,7 +197,7 @@ const imageDarkOptions: DropdownOption[] = [
   },
   {
     text: "Me",
-    value: "https://shellingford330.vercel.app/images/book.png",
+    value: "https://og-image-delta-seven.vercel.app/MyLog.png",
   },
 ];
 

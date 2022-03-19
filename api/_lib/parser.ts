@@ -54,7 +54,7 @@ function getArray(stringOrArray: string[] | string | undefined): string[] {
 }
 
 function getDefaultImages(images: string[], _: Theme): string[] {
-  const defaultImage = "https://shellingford330.vercel.app/images/book.png";
+  const defaultImage = "https://og-image-delta-seven.vercel.app/MyLog.png";
 
   if (!images || !images[0]) {
     return [defaultImage];

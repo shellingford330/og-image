@@ -102,7 +102,7 @@ function getCss(theme: string, fontSize: string) {
     }
     
     .heading {
-        font-family: M PLUS 1p', 'Inter', sans-serif;
+        font-family: 'M PLUS 1p', 'Inter', sans-serif;
         font-size: ${sanitizeHtml(fontSize)};
         font-style: normal;
         color: ${foreground};
